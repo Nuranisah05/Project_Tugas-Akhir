@@ -1,0 +1,548 @@
+/* ============================= */
+/* RESET & ROOT */
+/* ============================= */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Inter", system-ui, sans-serif;
+  background: #f8fafc;
+}
+
+#root {
+  height: 100%;
+}
+
+.wrapper {
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+  background: #f8fafc;
+  color: #0f172a;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* ============================= */
+/* DARK MODE ROOT */
+/* ============================= */
+.wrapper.dark {
+  background: #020617; /* navy gelap lembut */
+  color: #e5e7eb;
+}
+
+/* ============================= */
+/* LAYOUT */
+/* ============================= */
+.layout {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+/* ============================= */
+/* SIDEBAR */
+/* ============================= */
+.sidebar {
+  width: 260px;
+  padding: 16px;
+  background: #ffffff;
+  border-right: 1px solid #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  transition: transform 0.25s ease;
+}
+
+.wrapper.dark .sidebar {
+  background: #020617;
+  border-color: #1e293b;
+}
+
+/* SIDEBAR COLLAPSE */
+.sidebar.closed {
+  transform: translateX(-200%);
+  width: 0;
+  flex-basis: 0;
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+.sidebar-header {
+  padding: 12px 8px 16px;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+.wrapper.dark .sidebar-header {
+  border-color: rgba(255,255,255,0.08);
+}
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.sidebar-brand img {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+}
+
+.sidebar-brand h2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.sidebar-brand span {
+  font-size: 12px;
+  color: #64748b;
+}
+
+.wrapper.dark .sidebar-brand span {
+  color: #94a3b8;
+}
+
+.sidebar-section {
+  font-size: 12px;
+  font-weight: 600;
+  color: #64748b;
+  padding: 12px 8px 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.wrapper.dark .sidebar-section {
+  color: #94a3b8;
+}
+
+
+/* ============================= */
+/* SIDEBAR BUTTONS */
+/* ============================= */
+.new-chat-btn {
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: none;
+  background: #0ea5e9;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.sessions-list {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+/* ============================= */
+/* SESSION ITEM */
+/* ============================= */
+.session-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 12px;
+  cursor: pointer;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.6);
+  transition: background 0.2s, transform 0.15s;
+}
+
+.session-item:hover {
+  background: rgba(14,165,233,0.08);
+  background-color: #f1f5f9;
+  transform: translateX(2px);
+}
+
+
+.session-item.active {
+  background: rgba(14,165,233,0.15);
+  border-left: 3px solid #0ea5e9;
+}
+
+.wrapper.dark .session-item {
+  background: #0f172a;
+}
+
+.wrapper.dark .session-item.active {
+  background: #1e293b;
+}
+
+.wrapper.dark .session-item:hover {
+  background-color: #334155;
+}
+
+/* DELETE ICON */
+.delete-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #64748b;
+}
+
+.wrapper.dark .delete-btn {
+  color: #cbd5f5;
+}
+
+.delete-btn:hover {
+  color: #ef4444;
+}
+
+/* ============================= */
+/* SIDEBAR TOGGLE BUTTON */
+/* ============================= */
+.sidebar-toggle {
+  position: fixed;
+  left: 12px;
+  top: 14px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #0ea5e9;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+/* ============================= */
+/* CHAT MAIN */
+/* ============================= */
+.chat-main {
+  flex: 1;
+  min-width: none;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: #f8fafc;
+}
+
+.wrapper.dark .chat-main {
+  background: #020617;
+}
+
+/* ============================= */
+/* HEADER CENTER TITLE */
+/* ============================= */
+.chat-header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid #e5e7eb;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+}
+
+.wrapper.dark .chat-header {
+  border-color: #1e293b;
+}
+
+/* spacer kiri */
+.header-spacer {
+  width: 36px; /* sama dengan toggle */
+}
+
+/* judul di tengah */
+.header-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  pointer-events: none; /* klik tembus */
+}
+
+/* dark mode */
+.wrapper.dark .header-title {
+  color: #f1f5f9;
+}
+
+
+/* ============================= */
+/* CHAT BOX */
+/* ============================= */
+.chat-box {
+  flex: 1;
+  padding: 24px;
+  position: relative;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* ============================= */
+/* CHAT ROW */
+/* ============================= */
+.row {
+  display: flex;
+  gap: 10px;
+}
+
+.row.user {
+  justify-content: flex-end;
+}
+
+/* ============================= */
+/* BUBBLE */
+/* ============================= */
+.bubble {
+  max-width: 70%;
+  padding: 12px 16px;
+  border-radius: 16px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.bubble.user {
+  background: #0ea5e9;
+  color: white;
+  border-bottom-right-radius: 4px;
+}
+
+.bubble.bot {
+  background: #ffffff;
+  color: #0f172a;
+  border-bottom-left-radius: 4px;
+}
+
+.wrapper.dark .bubble.bot {
+  background: #1e293b;
+  color: #e5e7eb;
+}
+
+/* ============================= */
+/* AVATAR */
+/* ============================= */
+.avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+}
+
+/* ============================= */
+/* TYPING */
+/* ============================= */
+.typing {
+  display: flex;
+  gap: 6px;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  background: #0ea5e9;
+  border-radius: 50%;
+  animation: blink 1s infinite alternate;
+}
+
+@keyframes blink {
+  from { opacity: 0.3; }
+  to { opacity: 1; }
+}
+
+/* ============================= */
+/* INPUT AREA */
+/* ============================= */
+.input-area {
+  padding: 16px;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  gap: 10px;
+  background: #ffffff;
+}
+
+.wrapper.dark .input-area {
+  background: #020617;
+  border-color: #1e293b;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  font-size: 15px;
+}
+
+.input-area input:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 2px rgba(59,130,246,0.2);
+}
+
+.wrapper.dark .input-area input {
+  background: #1e293b;
+  color: #e5e7eb;
+  border-color: #334155;
+}
+
+.send-btn {
+  background: #2563eb;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* ============================= */
+/* FOOTER */
+/* ============================= */
+.footer {
+  padding: 14px;
+  text-align: center;
+  font-size: 13px;
+  color: #64748b;
+}
+
+.wrapper.dark .footer {
+  color: #94a3b8;
+}
+
+/* ============================= */
+/* TOGGLE THEME BUTTON */
+/* ============================= */
+.toggle-theme {
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+  border: none;
+  background: #f1f5f9;
+  cursor: pointer;
+  font-size: 18px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  transition: background 0.2s ease;
+}
+
+.toggle-theme:hover {
+  background: #e2e8f0;
+}
+
+/* Dark mode */
+.wrapper.dark .toggle-theme {
+  background: #1e293b;
+  color: #facc15;
+}
+
+.wrapper.dark .toggle-theme:hover {
+  background: #334155;
+}
+
+/* ===== CHATGPT-LIKE SCROLL BUTTON ===== */
+.scroll-to-bottom {
+  position: absolute;
+  left: 50%;                     /* ⬅️ pusat horizontal */
+  bottom: 125px;                  /* ⬅️ di atas input */
+  transform: translateX(-50%) translateY(8px);
+
+  width: 36px;
+  height: 36px;
+  border-radius: 999px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: rgba(255, 255, 255, 0.9);
+  color: #0f172a;
+  border: 1px solid rgba(0,0,0,0.08);
+
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+
+  box-shadow:
+    0 2px 6px rgba(0,0,0,0.12),
+    0 8px 20px rgba(0,0,0,0.08);
+
+  backdrop-filter: blur(8px);
+
+  opacity: 0;
+  animation: scrollBtnIn 0.25s ease forwards;
+  z-index: 50;
+}
+
+.wrapper.dark .scroll-to-bottom {
+  background: rgba(30, 41, 59, 0.9);
+  color: #e2e8f0;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+
+@keyframes scrollBtnIn {
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+/* markdown container */
+.bubble.bot .markdown {
+  line-height: 1.65;
+  font-size: 15px;
+}
+
+/* paragraf */
+.bubble.bot .markdown p {
+  margin: 0 0 10px 0;
+}
+
+/* ordered list (1., 2.) biar rapi */
+.bubble.bot .markdown ol {
+  margin: 10px 0 0 18px;
+  padding: 0;
+}
+
+.bubble.bot .markdown ol li {
+  margin: 8px 0;
+  padding-left: 4px;
+}
+
+/* bullet list fallback (-) */
+.bubble.bot .markdown ul {
+  margin: 10px 0 0 18px;
+  padding: 0;
+}
+
+.bubble.bot .markdown ul li {
+  margin: 6px 0;
+}
+
+/* .bubble {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  max-height: none;
+  overflow: visible;
+} */
+
+/* .bubble.bot .markdown {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.bubble.bot .markdown li p { margin: 0; }
+.bubble.bot .markdown li { margin: 6px 0; }
+
+.bubble.bot .markdown h1,
+.bubble.bot .markdown h2,
+.bubble.bot .markdown h3 {
+  font-size: 16px;
+  margin: 0 0 10px 0;
+  font-weight: 700;
+} */

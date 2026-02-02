@@ -1,0 +1,844 @@
+[
+  {
+    "id": "sess_1767886555441",
+    "title": "Sebutkan rumusan silasila Pancasila dala...",
+    "createdAt": 1767886555441,
+    "updatedAt": 1768411547795,
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Halo 👋\n\nAku adalah **PancaAI**, asisten AI untuk mata kuliah **PPKN**. Silakan ajukan pertanyaan pertamamu 😊",
+        "at": 1767886555441
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan rumusan sila-sila Pancasila dalam Piagam Jakarta (22 Juni 1945)!",
+        "at": 1767886564292
+      },
+      {
+        "sender": "ai",
+        "text": "Pancasila dalam Piagam Jakarta (22 Juni 1945): 1. Ketuhanan dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya. 2. Kemanusiaan yang adil dan beradab. 3. Persatuan Indonesia. 4. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan. 5. Keadilan sosial bagi seluruh rakyat Indonesia.",
+        "rawText": "Pancasila dalam Piagam Jakarta (22 Juni 1945): 1. Ketuhanan dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya. 2. Kemanusiaan yang adil dan beradab. 3. Persatuan Indonesia. 4. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan. 5. Keadilan sosial bagi seluruh rakyat Indonesia.",
+        "at": 1767886564292,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Jelaskan kompromi politik terkait 'tujuh kata' Piagam Jakarta yang dibahas!",
+        "at": 1767886575243
+      },
+      {
+        "sender": "ai",
+        "text": "- Terjadi kompromi politik antara nasionalis netral agama dengan nasionalis muslim untuk menyepakati Piagam Jakarta (22 Juni 1945) yang berisi tujuh kata “...dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya” diganti menjadi “Ketuhanan Yang Maha Esa”.\n\n- Piagam Jakarta “baru” ini kemudian disahkan oleh sidang PPKI pada tanggal 18 Agustus 1945 menjadi pembentukan UUD 1945, setelah terlebih dahulu menghapus 7 (tujuh) kata dari kalimat “Ketuhanan dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya” sehingga sila pertama menjadi “Ketuhanan Yang Maha Esa”.",
+        "rawText": "● Terjadi kompromi politik antara nasionalis netral agama dengan nasionalis muslim untuk menyepakati Piagam Jakarta (22 Juni 1945) yang berisi tujuh kata “...dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya” diganti menjadi “Ketuhanan Yang Maha Esa”. \n● Piagam Jakarta “baru” ini kemudian disahkan oleh sidang PPKI pada tanggal 18 Agustus 1945 menjadi pembentukan UUD 1945, setelah terlebih dahulu menghapus 7 (tujuh) kata dari kalimat “Ketuhanan dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya” sehingga sila pertama menjadi “Ketuhanan Yang Maha Esa”.",
+        "at": 1767886575243,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana Pancasila tertulis dalam alinea keempat Pembukaan UUD NRI Tahun 1945?",
+        "at": 1767886644333
+      },
+      {
+        "sender": "ai",
+        "text": "Alinea keempat Pembukaan UUD NRI Tahun 1945 dengan jelas menyatakan, “...maka disusunlah Kemerdekaan Kebangsaan Indonesia itu dalam suatu Undang-Undang Dasar Negara Indonesia, yang terbentuk dalam suatu susunan Negara Indonesia yang berkedaulatan rakyat dengan berdasar kepada Ketuhanan Yang Maha Esa, Kemanusiaan yang adil beradab, Persatuan Indonesia, dan Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, serta dengan mewujudkan suatu keadilan sosial bagi seluruh rakyat Indonesia.”",
+        "rawText": "Alinea keempat Pembukaan UUD NRI Tahun 1945 dengan jelas menyatakan, “...maka disusunlah Kemerdekaan Kebangsaan Indonesia itu dalam suatu Undang-Undang Dasar Negara Indonesia, yang terbentuk dalam suatu susunan Negara Indonesia yang berkedaulatan rakyat dengan berdasar kepada Ketuhanan Yang Maha Esa, Kemanusiaan yang adil beradab, Persatuan Indonesia, dan Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan, serta dengan mewujudkan suatu keadilan sosial bagi seluruh rakyat Indonesia.”",
+        "at": 1767886644333,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa fungsi pokok pancasila sebagai dasar negara?",
+        "at": 1767886663587
+      },
+      {
+        "sender": "ai",
+        "text": "Sesuai dengan tempat keberadaan Pancasila yaitu pada Pembukaan UUD NRI Tahun 1945, maka fungsi pokok Pancasila sebagai dasar negara pada hakikatnya adalah sumber dari segala sumber hukum atau sumber tertib hukum di Indonesia, sebagaimana tertuang dalam Ketetapan MPRS No. XX/MPRS/1966 (Jo. Ketetapan MPR No.IX/MPR/1978).",
+        "rawText": "Sesuai dengan tempat keberadaan Pancasila yaitu pada Pembukaan UUD NRI Tahun 1945, maka fungsi pokok Pancasila sebagai dasar negara pada hakikatnya adalah sumber dari segala sumber hukum atau sumber tertib hukum di Indonesia, sebagaimana tertuang dalam Ketetapan MPRS No. XX/MPRS/1966 (Jo. Ketetapan MPR No.IX/MPR/1978).",
+        "at": 1767886663587,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Empat pokok dalam Pembukaan UUD 1945 dijabarkan ke dalam aspek apa saja dan disingkat menjadi apa?",
+        "at": 1767886677414
+      },
+      {
+        "sender": "ai",
+        "text": "Penjabaran keempat pokok pikiran ke dalam pasal-pasal UUD mencakup empat aspek kehidupan bernegara yaitu politik, ekonomi, sosial budaya, dan pertahanan keamanan itu disingkat menjadi POLEKSOSBUD HANKAM.",
+        "rawText": "Penjabaran keempat pokok pikiran ke dalam pasal-pasal UUD mencakup empat aspek kehidupan bernegara yaitu politik, ekonomi, sosial budaya, dan pertahanan keamanan itu disingkat menjadi POLEKSOSBUD HANKAM.",
+        "at": 1767886677414,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apakah pengertian kata 'identitas' termasuk ke dalam rujukan KBBI?",
+        "at": 1767886697785
+      },
+      {
+        "sender": "ai",
+        "text": "- Menurut KBBI, identitas adalah jati diri.",
+        "rawText": "● Menurut KBBI, identitas adalah jati diri.",
+        "at": 1767886697785,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan apa saja contoh penanda fisik identitas diri!",
+        "at": 1767886719704
+      },
+      {
+        "sender": "ai",
+        "text": "Contoh penanda pribadi diwujudkan dalam beberapa bentuk fisik identitas diri, misal Kartu Tanda Penduduk atau NIK, ID Card (Identity Card), Surat Izin Mengemudi (SIM), Kartu Mahasiswa, dan penanda dalam bentuk perilaku, misal jujur dan suka membantu.",
+        "rawText": "Contoh penanda pribadi diwujudkan dalam beberapa bentuk fisik identitas diri, misal Kartu Tanda Penduduk atau NIK, ID Card (Identity Card), Surat Izin Mengemudi (SIM), Kartu Mahasiswa, dan penanda dalam bentuk perilaku, misal jujur dan suka membantu.",
+        "at": 1767886719704,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan rangkuman bentuk fisik identitas nasional Indonesia!",
+        "at": 1767886734449
+      },
+      {
+        "sender": "ai",
+        "text": "- Dasar Negara: Pancasila\n\n- Lambang Negara: Garuda Pancasila\n\n- Bahasa Nasional: Bahasa Indonesia\n\n- Bendera Negara: Sang Merah Putih\n\n- Semboyan: Bhinneka Tunggal Ika\n\n- Lagu Kebangsaan: Indonesia Raya\n\n- Bentuk Negara: Kesatuan RI\n\n- Konsitusi: UUD NRI 1945\n\n- Wawasan Nusantara\n\n- Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional",
+        "rawText": "● Dasar Negara: Pancasila ● Lambang Negara: Garuda Pancasila ● Bahasa Nasional: Bahasa Indonesia ● Bendera Negara: Sang Merah Putih ● Semboyan: Bhinneka Tunggal Ika ● Lagu Kebangsaan: Indonesia Raya ● Bentuk Negara: Kesatuan RI ● Konsitusi: UUD NRI 1945 ● Wawasan Nusantara ● Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional",
+        "at": 1767886734449,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa definisi 'negara bangsa (nation state)'?",
+        "at": 1767886767734
+      },
+      {
+        "sender": "ai",
+        "text": "Negara-bangsa (nation-state) adalah negara yang penduduknya memandang diri mereka sebagai satu bangsa. Nation berarti bangsa, state berarti negara, dan bangsa adalah sekelompok manusia yang memiliki kehendak bersatu sehingga mereka merasa dirinya adalah satu.",
+        "rawText": "Negara-bangsa  (nation-state) adalah negara yang penduduknya memandang diri mereka sebagai satu bangsa. Nation berarti bangsa, state berarti negara, dan bangsa adalah sekelompok manusia yang memiliki kehendak bersatu sehingga mereka merasa dirinya adalah satu.",
+        "at": 1767886767734,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Menurut O. Hood Phillips dkk. (dikutip Asshiddiqie, 2010) apa pengertian negara?",
+        "at": 1767886785849
+      },
+      {
+        "sender": "ai",
+        "text": "Menurut O. Hood Phillips, dkk. yang dikutip Asshiddiqie (2010) dalam buku Pendidikan Kewarganegaraan, negara adalah masyarakat politik independen yang menempati wilayah tertentu, dan yang anggotanya bersatu dengan tujuan untuk menghadapi tantangan atau kekuatan dari luar dan mempertahankan tatanan internal.",
+        "rawText": "Menurut O. Hood Phillips, dkk. yang dikutip Asshiddiqie (2010) dalam buku Pendidikan Kewarganegaraan, negara adalah masyarakat politik independen yang menempati wilayah tertentu, dan yang anggotanya bersatu dengan tujuan untuk menghadapi tantangan atau kekuatan dari luar dan mempertahankan tatanan internal.",
+        "at": 1767886785849,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "apa itu jati diri bangsa Menurut Kaelan (2002)?",
+        "at": 1767886800908
+      },
+      {
+        "sender": "ai",
+        "text": "Menurut Kaelan (2002) dalam buku Pendidikan Kewarganegaraan (2016), jati diri bangsa Indonesia adalah nilai-nilai yang merupakan hasil buah pikiran dan gagasan dasar bangsa Indonesia tentang kehidupan yang dianggap baik yang memberikan watak, corak, dan ciri masyarakat Indonesia.",
+        "rawText": "Menurut Kaelan (2002) dalam buku Pendidikan Kewarganegaraan (2016), jati diri bangsa Indonesia adalah nilai-nilai yang merupakan hasil buah pikiran dan gagasan dasar bangsa Indonesia tentang kehidupan yang dianggap baik yang memberikan watak, corak, dan ciri masyarakat Indonesia.",
+        "at": 1767886800908,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa batas-batas wilayah negara dan apa saja wilayah ekstra teritorial?",
+        "at": 1767886812070
+      },
+      {
+        "sender": "ai",
+        "text": "- Wilayah suatu negara pada umumnya meliputi wilayah darat, wilayah laut, dan wilayah udara. Namun, ada negara yang tidak memiliki laut.\n\n- Ada wilayah ekstra teritorial, misalnya dalam kapal di bawah bendera suatu negara dan dalam kantor perwakilan diplomatik suatu negara di negara lain.\n\n- Batas wilayah negara Indonesia ditetapkan dalam perjanjian dengan negara lain yang berbatasan langsung dengan Indonesia.",
+        "rawText": "● Wilayah suatu negara pada umumnya meliputi wilayah darat, wilayah laut, dan wilayah udara. Namun, ada negara yang tidak memiliki laut.\n● Ada wilayah ekstra teritorial, misalnya dalam kapal di bawah bendera suatu negara dan dalam kantor perwakilan diplomatik suatu negara di negara lain.\n● Batas wilayah negara Indonesia ditetapkan dalam perjanjian dengan negara lain yang berbatasan langsung dengan Indonesia.",
+        "at": 1767886812070,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Jelaskan apa perbedaan konstitusi dengan UUD?",
+        "at": 1767886849007
+      },
+      {
+        "sender": "ai",
+        "text": "- Undang-undang dasar adalah suatu kitab atau dokumen yang memuat aturan-aturan hukum dan ketentuan-ketentuan hukum yang pokok-pokok atau dasar-dasar yang sifatnya tertulis, yang menggambarkan tentang sistem ketatanegaraan suatu negara.\n\n- Konstitusi adalah dokumen yang memuat aturan-aturan hukum dan ketentuan-ketentuan hukum yang pokok-pokok atau dasar-dasar, yang sifatnya tertulis maupun tidak tertulis, yang menggambarkan tentang sistem ketatanegaraan suatu negara, misal berupa konvensi (kesepakatan bersama) atau kebiasaan ketatanegaraan.\n\n- UUD NRI 1945 merupakan salah satu konsitusi negara Indonesia.",
+        "rawText": "● Undang-undang dasar adalah suatu kitab atau dokumen yang memuat aturan-aturan hukum dan ketentuan-ketentuan hukum yang pokok-pokok atau dasar-dasar yang sifatnya tertulis, yang menggambarkan tentang sistem ketatanegaraan suatu negara.\n● Konstitusi adalah dokumen yang memuat aturan-aturan hukum dan ketentuan-ketentuan hukum yang pokok-pokok atau dasar-dasar, yang sifatnya tertulis maupun tidak tertulis, yang menggambarkan tentang sistem ketatanegaraan suatu negara, misal berupa konvensi (kesepakatan bersama) atau kebiasaan ketatanegaraan.\n● UUD NRI 1945 merupakan salah satu konsitusi negara Indonesia.",
+        "at": 1767886849007,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan garis besar unsur-unsur yang terkandung dalam konstitusi negara!",
+        "at": 1767886881801
+      },
+      {
+        "sender": "ai",
+        "text": "- Struktur organisasi negara dengan lembaga-lembaga negara di dalamnya.\n\n- Tugas dan wewenang masing-masing lembaga negara dan hubungan tata kerja antara satu lembaga dengan lembaga lainnya.\n\n- Jaminan hak asasi manusia dan warga negara.",
+        "rawText": "● Struktur organisasi negara dengan lembaga-lembaga negara di dalamnya.\n● Tugas dan wewenang masing-masing lembaga negara dan hubungan tata kerja antara satu lembaga dengan lembaga lainnya.\n● Jaminan hak asasi manusia dan warga negara.",
+        "at": 1767886881801,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "apa saja masalah RI sebelum reformasi 1998?",
+        "at": 1767887575885
+      },
+      {
+        "sender": "ai",
+        "text": "- Kekuasaan presiden terlalu kuat, kurang kontrol dari DPR, dan tidak ada batasan waktu berkuasa. Kekuasaan tanpa batas ini mendorong terjadinya pemerintahan yang otoriter, melakukan pelanggaran HAM, dan berperilaku koruptif, kolusif, dan menjalankan nepotisme dalam pengertian negatif.\n\n- Rendahnya nilai demokrasi, kebebasan berserikat, kebebasan berpendapat, kebebasan pers, dan kualitas serta kuantitas pendidikan.",
+        "rawText": "- Kekuasaan presiden terlalu kuat, kurang kontrol dari DPR, dan tidak ada batasan waktu berkuasa. Kekuasaan tanpa batas ini mendorong terjadinya pemerintahan yang otoriter, melakukan pelanggaran HAM, dan berperilaku koruptif, kolusif, dan menjalankan nepotisme dalam pengertian negatif.\n\n- Rendahnya nilai demokrasi, kebebasan berserikat, kebebasan berpendapat, kebebasan pers, dan kualitas serta kuantitas pendidikan.",
+        "at": 1767887575885,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "sebutkan apa saja Rangkuman Peubahan UUD 1945 setelah Reformasi!",
+        "at": 1767887832414
+      },
+      {
+        "sender": "ai",
+        "text": "- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.",
+        "rawText": "● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. \n● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. \n● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. \n● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.",
+        "at": 1767887832414,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa garis besar dari agenda Reformasi 1998?",
+        "at": 1767888340447
+      },
+      {
+        "sender": "ai",
+        "text": "1. Mengamandemen UUD NRI 1945.\n2. Menghapuskan doktrin Dwi Fungsi ABRI.\n3. Menegakkan supremasi hukum dan penghormatan hak asasi manusia (HAM), serta pemberantasan korupsi, kolusi, dan nepotisme (KKN).\n4. Melakukan desentralisasi dan hubungan yang adil antara pemerintah pusat dan pemerintah daerah.\n5. Mewujudkan kebebasan pers. Pendirian media massa tidak perlu izin khusus, cukup izin usaha biasa. Salah satu hasilnya: Majalah InfoLINUX.\n6. Mewujudkan kehidupan demokrasi.",
+        "rawText": "1. Mengamandemen UUD NRI 1945.\n2. Menghapuskan doktrin Dwi Fungsi ABRI.\n3. Menegakkan supremasi hukum dan penghormatan hak asasi manusia (HAM), serta pemberantasan korupsi, kolusi, dan nepotisme (KKN).\n4. Melakukan desentralisasi dan hubungan yang adil antara pemerintah pusat dan pemerintah daerah.\n5. Mewujudkan kebebasan pers. Pendirian media massa tidak perlu izin khusus, cukup izin usaha biasa. Salah satu hasilnya: Majalah InfoLINUX.\n6. Mewujudkan kehidupan demokrasi.",
+        "at": 1767888340447,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa alasan UUD NRI 1945 perlu diamandemen?",
+        "at": 1767888498532
+      },
+      {
+        "sender": "ai",
+        "text": "- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).",
+        "rawText": "● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).",
+        "at": 1767888498532,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "apa perbedaan Pasal 7 sebelum amandemen dan setelah amandemen?",
+        "at": 1767888703625
+      },
+      {
+        "sender": "ai",
+        "text": "- Pasal 7 sebelum amandemen: Presiden dan Wakil Presiden memegang jabatannya selama masa lima tahun, dan sesudahnya dapat dipilih kembali.\n\n- Pasal 7 setelah amandemen: Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan. Catatan dari Keputusan MK: berturut-turut maupun tidak berturut-turut.",
+        "rawText": "● Pasal 7 sebelum amandemen: Presiden dan Wakil Presiden memegang jabatannya selama masa lima tahun, dan sesudahnya dapat dipilih kembali.\n● Pasal 7 setelah amandemen: Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan. Catatan dari Keputusan MK: berturut-turut maupun tidak berturut-turut.",
+        "at": 1767888703625,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Menurut UUD RI No. 39 Tahun 1999 Pasal 1, apa definisi Hak Asasi Manusia?",
+        "at": 1767888819223
+      },
+      {
+        "sender": "ai",
+        "text": "Hak Asasi Manusia adalah seperangkat hak yang melekat pada hakikat dan keberadaan manusia sebagai makhluk Tuhan Yang Maha Esa dan merupakan anugerah-Nya yang wajib dihormati, dijunjung tinggi dan dilindungi oleh negara, hukum dan Pemerintahan, dan setiap orang demi kehormatan serta perlindungan harkat dan martabat manusia.",
+        "rawText": "Hak Asasi Manusia adalah seperangkat hak yang melekat pada hakikat dan keberadaan manusia sebagai makhluk Tuhan Yang Maha Esa dan merupakan anugerah-Nya yang wajib dihormati, dijunjung tinggi dan dilindungi oleh negara, hukum dan Pemerintahan, dan setiap orang demi kehormatan serta perlindungan harkat dan martabat manusia.",
+        "at": 1767888819223,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Dalam UUD NRI 1945, hak warga negara dapat dikelompokkan menjadi apa saja?",
+        "at": 1767889198023
+      },
+      {
+        "sender": "ai",
+        "text": "Dalam UUD NRI 1945, hak warga negara dapat dikelompokkan menjadi dua sisi berikut ini:\n\n- Kewajiban negara terhadap warga negara.\n\n- Hak warga negara.",
+        "rawText": "Dalam UUD NRI 1945, hak warga negara dapat dikelompokkan menjadi dua sisi berikut ini: \n● Kewajiban negara terhadap warga negara.\n● Hak warga negara.",
+        "at": 1767889198023,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa penjelasan materi tentang 'kebebasan yang bertanggung jawab' sebagai bagian dari HAM?",
+        "at": 1767889303938
+      },
+      {
+        "sender": "ai",
+        "text": "- Kemampuan tersebut juga menjadikan manusia menjadi makhluk yang memiliki kebebasan untuk menentukan pilihan tindakannya.\n\n- Oleh karena itu, muncul konsep tentang tanggung jawab manusia.\n\n- Kebebasan yang bertanggung jawab itu juga merupakan bagian dari hak asasi manusia yang secara kodrati merupakan anugerah dari Tuhan Yang Maha Esa.\n\n- Pengingkaran akan kebebasan berarti pengingkaran pada martabat manusia.\n\n- Oleh karena itu, semua orang sebagai pribadi maupun atas nama negara, pemerintah, dan organisasi wajib mengakui hak asasi manusia.\n\n- Hak asasi dapat menjadi titik tolak dan tujuan dalam penyelenggaraan kehidupan bermasyarakat, berbangsa, dan bernegara (Bakry, 2009: 228).",
+        "rawText": "● Kemampuan tersebut juga menjadikan manusia menjadi makhluk yang memiliki kebebasan untuk menentukan pilihan tindakannya.\n● Oleh karena itu, muncul konsep tentang tanggung jawab manusia.\n● Kebebasan yang bertanggung jawab itu juga merupakan bagian dari hak asasi manusia yang secara kodrati merupakan anugerah dari Tuhan Yang Maha Esa.\n● Pengingkaran akan kebebasan berarti pengingkaran pada martabat manusia.\n● Oleh karena itu, semua orang sebagai pribadi maupun atas nama negara, pemerintah, dan organisasi wajib mengakui hak asasi manusia.\n● Hak asasi dapat menjadi titik tolak dan tujuan dalam penyelenggaraan kehidupan bermasyarakat, berbangsa, dan bernegara (Bakry, 2009: 228).",
+        "at": 1767889303938,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa penjelasan tentang 'kebebasan yang bertanggung jawab' sebagai bagian dari HAM?",
+        "at": 1767889352598
+      },
+      {
+        "sender": "ai",
+        "text": "- Kemampuan tersebut juga menjadikan manusia menjadi makhluk yang memiliki kebebasan untuk menentukan pilihan tindakannya.\n\n- Oleh karena itu, muncul konsep tentang tanggung jawab manusia.\n\n- Kebebasan yang bertanggung jawab itu juga merupakan bagian dari hak asasi manusia yang secara kodrati merupakan anugerah dari Tuhan Yang Maha Esa.\n\n- Pengingkaran akan kebebasan berarti pengingkaran pada martabat manusia.\n\n- Oleh karena itu, semua orang sebagai pribadi maupun atas nama negara, pemerintah, dan organisasi wajib mengakui hak asasi manusia.\n\n- Hak asasi dapat menjadi titik tolak dan tujuan dalam penyelenggaraan kehidupan bermasyarakat, berbangsa, dan bernegara (Bakry, 2009: 228).",
+        "rawText": "● Kemampuan tersebut juga menjadikan manusia menjadi makhluk yang memiliki kebebasan untuk menentukan pilihan tindakannya.\n● Oleh karena itu, muncul konsep tentang tanggung jawab manusia.\n● Kebebasan yang bertanggung jawab itu juga merupakan bagian dari hak asasi manusia yang secara kodrati merupakan anugerah dari Tuhan Yang Maha Esa.\n● Pengingkaran akan kebebasan berarti pengingkaran pada martabat manusia.\n● Oleh karena itu, semua orang sebagai pribadi maupun atas nama negara, pemerintah, dan organisasi wajib mengakui hak asasi manusia.\n● Hak asasi dapat menjadi titik tolak dan tujuan dalam penyelenggaraan kehidupan bermasyarakat, berbangsa, dan bernegara (Bakry, 2009: 228).",
+        "at": 1767889352598,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa penjelasan tentang 'kebebasan yang bertanggung jawab'?",
+        "at": 1767889371375
+      },
+      {
+        "sender": "ai",
+        "text": "- Untuk menyeimbangkan hak dan kewajiban di Indonesia, dimunculkan konsep kebebasan (hak) yang bertanggung jawab (kewajiban).\n\n- Tuhan Yang Maha Kuasa memberikan kemampuan akal, perasaan, dan indera agar dapat membedakan benar dan salah, baik dan buruk, indah dan jelek.\n\n- Kemampuan-kemampuan tersebut akan mengarahkan dan membimbing manusia dalam kehidupannya.\n\n- Kemampuan tersebut juga menjadikan manusia menjadi makhluk yang memiliki kebebasan untuk menentukan pilihan tindakannya.",
+        "rawText": "● Untuk menyeimbangkan hak dan kewajiban di Indonesia, dimunculkan konsep kebebasan (hak) yang bertanggung jawab (kewajiban).\n● Tuhan Yang Maha Kuasa memberikan kemampuan akal, perasaan, dan indera agar dapat membedakan benar dan salah, baik dan buruk, indah dan jelek.\n● Kemampuan-kemampuan tersebut akan mengarahkan dan membimbing manusia dalam kehidupannya.\n● Kemampuan tersebut juga menjadikan manusia menjadi makhluk yang memiliki kebebasan untuk menentukan pilihan tindakannya.",
+        "at": 1767889371375,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan contoh hak warga negara yang dicantukan dalam UUD 1945!",
+        "at": 1767889402421
+      },
+      {
+        "sender": "ai",
+        "text": "Alasan UUD NRI 1945 Diamandemen\n\n- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n\n- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "rawText": "Alasan UUD NRI 1945 Diamandemen\n● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. ● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. ● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. ● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "at": 1767889402421,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan contoh kewajiban warga negara yang dicantumkan dalam UUD 1945!",
+        "at": 1767889432757
+      },
+      {
+        "sender": "ai",
+        "text": "Alasan UUD NRI 1945 Diamandemen\n\n- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n\n- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "rawText": "Alasan UUD NRI 1945 Diamandemen\n● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. ● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. ● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. ● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "at": 1767889432757,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "jelaskan contoh kewajiban warga negara yang dicantumkan dalam UUD 1945!",
+        "at": 1767889461384
+      },
+      {
+        "sender": "ai",
+        "text": "Alasan UUD NRI 1945 Diamandemen\n\n- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n\n- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "rawText": "Alasan UUD NRI 1945 Diamandemen\n● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. ● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. ● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. ● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "at": 1767889461384,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "UUD NRI 1945",
+        "at": 1767889477157
+      },
+      {
+        "sender": "ai",
+        "text": "UUD NRI 1945 (Masa Kemerdekaan)\n\n- Rancangan UUD 1945 disusun oleh Badan Penyelidik Usaha Persiapan Kemerdekaan (BPUPKI) pada 10-17 Juli 1945.\n\n- UUD 1945 pertama itu berlaku sejak 18 Agustus 1945 melalui penetapan oleh PPKI (Panitia Persiapan Kemerdekaan Indonesia).\n\n- UUD 1945 itu berlaku sampai dengan Agustus 1950, dengan catatan UUD 1945 itu hanya berlaku di Republik Indonesia Proklamasi pada 27 Desember 1949 sampai dengan 17 Agustus 1950 karena ada Konstitusi RIS mulai 27 Desember 1949.",
+        "rawText": "UUD NRI 1945 (Masa Kemerdekaan)\n● Rancangan UUD 1945 disusun oleh Badan Penyelidik Usaha Persiapan Kemerdekaan (BPUPKI) pada 10-17 Juli 1945.\n● UUD 1945 pertama itu berlaku sejak 18 Agustus 1945 melalui penetapan oleh PPKI (Panitia Persiapan Kemerdekaan Indonesia).\n● UUD 1945 itu berlaku sampai dengan Agustus 1950, dengan catatan UUD 1945 itu hanya berlaku di Republik Indonesia Proklamasi pada 27 Desember 1949 sampai dengan 17 Agustus 1950 karena ada Konstitusi RIS mulai 27 Desember 1949.",
+        "at": 1767889477157,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "apa saja hak warga negara yang dicantukan dalam UUD 1945!",
+        "at": 1767889552446
+      },
+      {
+        "sender": "ai",
+        "text": "Alasan UUD NRI 1945 Diamandemen\n\n- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n\n- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "rawText": "Alasan UUD NRI 1945 Diamandemen\n● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. ● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. ● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. ● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "at": 1767889552446,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan contoh hak warga negara yang dijamin dalam UUD 1945!",
+        "at": 1767889602513
+      },
+      {
+        "sender": "ai",
+        "text": "Alasan UUD NRI 1945 Diamandemen\n\n- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n\n- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "rawText": "Alasan UUD NRI 1945 Diamandemen\n● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. ● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. ● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. ● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "at": 1767889602513,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan contoh hak warga negara yang dijamin dalam UUD 1945 setelah di amandemen!",
+        "at": 1767889642854
+      },
+      {
+        "sender": "ai",
+        "text": "Alasan UUD NRI 1945 Diamandemen\n\n- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n\n- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "rawText": "Alasan UUD NRI 1945 Diamandemen\n● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. ● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. ● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. ● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "at": 1767889642854,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "Apa contoh hak warga negara yang dijamin dalam UUD 1945 setelah diamandemen?",
+        "at": 1767889669877
+      },
+      {
+        "sender": "ai",
+        "text": "Alasan UUD NRI 1945 Diamandemen\n\n- UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n\n- Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n\n- Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999.\n\n- Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000.\n\n- Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001.\n\n- Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "rawText": "Alasan UUD NRI 1945 Diamandemen\n● UUD NRI 1945 belum cukup memuat landasan bagi kehidupan yang demokratis, pemberdayaan rakyat, dan penghormatan HAM.\n● Dalam tubuh UUD NRI 1945 terdapat pasal-pasal yang menimbulkan penafsiran beragam atau multitafsir dan membuka peluang bagi penyelenggaraan negara yang otoriter, sentralistik, tertutup, dan berpotensi tumbuhnya praktik korupsi, kolusi, dan nepotisme (KKN).\nRangkuman Peubahan UUD 1945 setelah Reformasi\n● Perubahan Pertama (Amandemen I) : Sidang Umum MPR 1999. ● Perubahan Kedua (Amandemen II) : Sidang Tahunan MPR 2000. ● Perubahan Ketiga (Amandemen III) : Sidang Tahunan MPR 2001. ● Perubahan Keempat (Amandemen IV) : Sidang Tahunan MPR 2002.\nPerubahan/Amandemen UUD NRI 1945",
+        "at": 1767889669877,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "Apa yang dimaksud dengan kewajiban asasi?",
+        "at": 1767898608495
+      },
+      {
+        "sender": "ai",
+        "text": "- Kewajiban asasi adalah kewajiban dasar yang harus dijalankan oleh seseorang dalam kaitannya dengan kepentingan dirinya sendiri, alam semesta, masyarakat, bangsa, negara maupun kedudukannya sebagai makhluk Tuhan.",
+        "rawText": "● Kewajiban asasi adalah kewajiban dasar yang harus dijalankan oleh seseorang dalam kaitannya dengan kepentingan dirinya sendiri, alam semesta, masyarakat, bangsa, negara maupun kedudukannya sebagai makhluk Tuhan.",
+        "at": 1767898608495,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa perbedaan pandangan hak asasi manusia di negara Barat dan negara Timur seperti Indonesia?",
+        "at": 1767898804091
+      },
+      {
+        "sender": "ai",
+        "text": "- Di negara barat, hak asasi berpusat pada manusia, sedang di negara timur seperti Indonesia, hak asasi berpusat pada Tuhan.\n\n- Hak asasi yang berpusat pada manusia mengesampingkan nilai-nilai ketuhanan.\n\n- Hak asasi yang berpusat pada Tuhan menjadikan nilai dan kaidah ketuhanan sebagai dasar perumusan hak asasi. Kebebasan manusia selalu ditempatkan pada kerangka kaidah ketuhanan.",
+        "rawText": "● Di negara barat, hak asasi berpusat pada manusia, sedang di negara timur seperti Indonesia, hak asasi berpusat pada Tuhan.\n● Hak asasi yang berpusat pada manusia mengesampingkan nilai-nilai ketuhanan.\n● Hak asasi yang berpusat pada Tuhan menjadikan nilai dan kaidah ketuhanan sebagai dasar perumusan hak asasi. Kebebasan manusia selalu ditempatkan pada kerangka kaidah ketuhanan.",
+        "at": 1767898804091,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "bagaimana bentuk dari pemerintahan yang buruk?",
+        "at": 1767963766740
+      },
+      {
+        "sender": "ai",
+        "text": "- Bentuk pemerintahan yang buruk yakni tirani (kepentingan pribadi), oligarki (kepentingan kelompok kecil), dan mobokrasi atau okhlokrasi (dikelola rakyat yang tidak paham pemerintahan).",
+        "rawText": "● Bentuk pemerintahan yang buruk yakni tirani (kepentingan pribadi), oligarki (kepentingan kelompok kecil), dan mobokrasi atau okhlokrasi (dikelola rakyat yang tidak paham pemerintahan).",
+        "at": 1767963766740,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Jelaskan asal kata 'demokrasi' dan maknanya!",
+        "at": 1767963943044
+      },
+      {
+        "sender": "ai",
+        "text": "- Demokrasi (Inggris: democracy) berasal dari penggalan kata bahasa Yunani yakni demos dan cratein. Demos berarti rakyat dan cratein berarti pemerintahan. Jadi demokrasi berarti pemerintahan rakyat.",
+        "rawText": "● Demokrasi (Inggris: democracy) berasal dari penggalan kata bahasa Yunani yakni demos dan cratein. Demos berarti rakyat dan cratein berarti pemerintahan. Jadi demokrasi berarti pemerintahan rakyat.",
+        "at": 1767963943044,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa definisi demokrasi menurut Abraham Lincoln (1863)?",
+        "at": 1767963956907
+      },
+      {
+        "sender": "ai",
+        "text": "demokrasi adalah pemerintahan dari rakyat, oleh rakyat, dan untuk rakyat.",
+        "rawText": "demokrasi adalah pemerintahan dari rakyat, oleh rakyat, dan untuk rakyat.",
+        "at": 1767963956907,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa makna demokrasi sebagai sikap hidup dan apa dasar utamanya dalam Pancasila serta UUD 1945?",
+        "at": 1767964125688
+      },
+      {
+        "sender": "ai",
+        "text": "- Demokrasi tidak cukup berjalan di tingkat kenegaraan, tetapi demokrasi juga memerlukan sikap hidup demokratis yang tumbuh dalam diri penyelenggara negara maupun warga negara pada umumnya.\n\n- Demokrasi sebagai sikap hidup diterapkan di Indonesia dalam bentuk demokrasi yang berdasarkan Pancasila dan UUD 1945, dengan prinsip dasarnya tertulis dalam sila ke-4 Pancasila yang ada dalam Pembukaan UUD 1945 dan pasal 1 UUD 1945 ayat 2 “Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar.”",
+        "rawText": "● Demokrasi tidak cukup berjalan di tingkat kenegaraan, tetapi demokrasi juga memerlukan sikap hidup demokratis yang tumbuh dalam diri penyelenggara negara maupun warga negara pada umumnya.\n● Demokrasi sebagai sikap hidup diterapkan di Indonesia dalam bentuk demokrasi yang berdasarkan Pancasila dan UUD 1945, dengan prinsip dasarnya tertulis dalam sila ke-4 Pancasila yang ada dalam Pembukaan UUD 1945 dan pasal 1 UUD 1945 ayat 2 “Kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar.”",
+        "at": 1767964125688,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa isi pokok Demokrasi menurut UUD 1945 setelah diamandemen Pasal 2 tentang MPR?",
+        "at": 1767964906594
+      },
+      {
+        "sender": "ai",
+        "text": "UUD 1945 Pasal 2: (1) Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undang-undang. (2) Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibu kota negara. (3) Segala putusan Majelis Permusyawaratan Rakyat ditetapkan dengan suara terbanyak.",
+        "rawText": "UUD 1945 Pasal 2: (1) Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undang-undang. (2) Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibu kota negara. (3) Segala putusan Majelis Permusyawaratan Rakyat ditetapkan dengan suara terbanyak.",
+        "at": 1767964906594,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa arti demokrasi Pancasila dalam arti luas dan dalam arti sempit?",
+        "at": 1767964920236
+      },
+      {
+        "sender": "ai",
+        "text": "- Demokrasi Pancasila dalam arti luas adalah kedaulatan atau kekuasaan tertinggi ada pada rakyat yang dalam penyelenggaraannya dijiwai oleh nilai-nilai Pancasila.\n\n- Demokrasi Pancasila dalam arti sempit adalah kedaulatan rakyat yang dilaksanakan menurut hikmat kebijaksanaan dalam permusyawaratan perwakilan.",
+        "rawText": "● Demokrasi Pancasila dalam arti luas adalah kedaulatan atau kekuasaan tertinggi ada pada rakyat yang dalam penyelenggaraannya dijiwai oleh nilai-nilai Pancasila.\n● Demokrasi Pancasila dalam arti sempit adalah kedaulatan rakyat yang dilaksanakan menurut hikmat kebijaksanaan dalam permusyawaratan perwakilan.",
+        "at": 1767964920236,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa isi UUD 1945 Pasal 4 ayat (1) dan Pasal 10 terkait kekuasaan Presiden?",
+        "at": 1767964935999
+      },
+      {
+        "sender": "ai",
+        "text": "- UUD 1945 Pasal 4 Ayat 1: Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar.\n\n- UUD 1945 Pasal 10: Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara.",
+        "rawText": "● UUD 1945 Pasal 4 Ayat 1: Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar.\n● UUD 1945 Pasal 10: Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut, dan Angkatan Udara.",
+        "at": 1767964935999,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Jelaskan sistem pemerintahan presidensial di Indoensia, termasuk perbedaannya dengan sistem parlementer!",
+        "at": 1767965181333
+      },
+      {
+        "sender": "ai",
+        "text": "- Sistem pemerintahan Republik Indonesia adalah presidensial, yang artinya Presiden juga pemimpin pemerintahan dan negara. Presiden memimpin kabinet yang terdiri atas para menteri dan pejabat tinggi lainnya.\n\n- Setelah amandemen UUD 1945, RI menganut sistem presidensial atau disebut juga dengan sistem kongresional, yaitu sistem penyelenggaraan pemerintahan negara republik yang kekuasan eksekutif dipilih melalui pemilu dan terpisah dengan kekuasan legislatif.\n\n- Di negara RI tidak ada perdana menteri seperti dalam sistem pemerintahan parlementer.",
+        "rawText": "● Sistem pemerintahan Republik Indonesia adalah presidensial, yang artinya Presiden juga pemimpin pemerintahan dan negara. Presiden memimpin kabinet yang terdiri atas para menteri dan pejabat tinggi lainnya.\n● Setelah amandemen UUD 1945, RI menganut sistem presidensial atau disebut juga dengan sistem kongresional, yaitu sistem penyelenggaraan pemerintahan negara republik yang kekuasan eksekutif dipilih melalui pemilu dan terpisah dengan kekuasan legislatif.\n● Di negara RI tidak ada perdana menteri seperti dalam sistem pemerintahan parlementer.",
+        "at": 1767965181333,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Siapa lembaga tertinggi di Negara RI?",
+        "at": 1767965356961
+      },
+      {
+        "sender": "ai",
+        "text": "- Tidak ada, karena setelah UUD 1945 diamandemen terjadi keseimbangan kekuasaan antara Presiden dengan DPR, DPD, dan MPR. Namun, MPR dapat memberhentikan Presiden, sedangkan presiden tidak dapat membubarkan MPR, DPR, dan DPD.",
+        "rawText": "● Tidak ada, karena setelah UUD 1945 diamandemen terjadi keseimbangan kekuasaan antara Presiden dengan DPR, DPD, dan MPR. Namun, MPR dapat memberhentikan Presiden, sedangkan presiden tidak dapat membubarkan MPR, DPR, dan DPD.",
+        "at": 1767965356961,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Siapa yang dapat memberhentikan Presiden RI?",
+        "at": 1767965583092
+      },
+      {
+        "sender": "ai",
+        "text": "Majelis Permusyawaratan Rakyat hanya dapat memberhentikan Presiden dan/atau Wakil Presiden dalam masa jabatannya menurut Undang-Undang Dasar.",
+        "rawText": "Majelis Permusyawaratan Rakyat hanya dapat memberhentikan Presiden dan/atau Wakil Presiden dalam masa jabatannya menurut Undang-Undang Dasar.",
+        "at": 1767965583092,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa ketentuan Pasal 7B ayat (2) dan ayat (3) terkait proses pengajuan permintaan DPR kepada Mahkamah Konstitusi?",
+        "at": 1767965659116
+      },
+      {
+        "sender": "ai",
+        "text": "- Pasal 7B ayat (2): Pendapat Dewan Perwakilan Rakyat bahwa Presiden dan/atau Wakil Presiden telah melakukan pelanggaran hukum tersebut ataupun telah tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden adalah dalam rangka pelaksanaan fungsi pengawasan Dewan Perwakilan Rakyat.\n\n- Pasal 7B ayat (3): Pengajuan permintaan Dewan Perwakilan Rakyat kepada Mahkamah Konstitusi hanya dapat dilakukan dengan dukungan sekurang­-kurangnya 2/3 dari jumlah anggota Dewan Perwakilan Rakyat yang hadir dalam sidang paripurna yang dihadiri oleh sekurang­-kurangnya 2/3 dari jumlah anggota Dewan Perwakilan Rakyat.",
+        "rawText": "● Pasal 7B ayat (2): Pendapat Dewan Perwakilan Rakyat bahwa Presiden dan/atau Wakil Presiden telah melakukan pelanggaran hukum tersebut ataupun telah tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden adalah dalam rangka pelaksanaan fungsi pengawasan Dewan Perwakilan Rakyat.\n● Pasal 7B ayat (3): Pengajuan permintaan Dewan Perwakilan Rakyat kepada Mahkamah Konstitusi hanya dapat dilakukan dengan dukungan sekurang­-kurangnya 2/3 dari jumlah anggota Dewan Perwakilan Rakyat yang hadir dalam sidang paripurna yang dihadiri oleh sekurang­-kurangnya 2/3 dari jumlah anggota Dewan Perwakilan Rakyat.",
+        "at": 1767965659116,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa pengertian geopolitik dilihat dari asal kata 'geo' dan ' politik'?",
+        "at": 1767965703294
+      },
+      {
+        "sender": "ai",
+        "text": "Geo berarti bumi, dan politik dari bahasa Yunani polites yang berarti warga negara.",
+        "rawText": "Geo berarti bumi, dan politik dari bahasa Yunani polites yang berarti warga negara.",
+        "at": 1767965703294,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan definisi geopolitik secara tradisional dan maknanya!",
+        "at": 1767965764289
+      },
+      {
+        "sender": "ai",
+        "text": "- Geopolitik secara tradisional didefinisikan sebagai ilmu atau studi tentang \"pengaruh faktor geografis pada tindakan politik.”\n\n- Geopolitik dimaknai sebagai ilmu penyelenggaraan negara yang setiap kebijakannya dikaitkan dengan masalah-masalah geografi wilayah atau tempat tinggal suatu bangsa.",
+        "rawText": "● Geopolitik secara tradisional didefinisikan sebagai ilmu atau studi tentang \"pengaruh faktor geografis pada tindakan politik.”\n● Geopolitik dimaknai sebagai ilmu penyelenggaraan negara yang setiap kebijakannya dikaitkan dengan masalah-masalah geografi wilayah atau tempat tinggal suatu bangsa.",
+        "at": 1767965764289,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana sejarah penamaan nusantara berdasarkan sudut pandang Majapahit?",
+        "at": 1767966362869
+      },
+      {
+        "sender": "ai",
+        "text": "- Penamaan nusantara berdasarkan sudut pandang Majapahit itu dimaknai bahwa pada waktu itu belum ada sebutan yang cocok untuk menyebut seluruh kepulauan yang sekarang bernama Indonesia dan juga Malaysia.\n\n- Nusantara pada waktu itu diartikan pulau-pulau di luar Majapahit (Jawa).\n\n- Dalam Kitab Negarakertagama karangan Empu Tantular, arti nusantara ialah pulau-pulau di luar Jawa dengan Majapahit sebagai ibu kotanya.",
+        "rawText": "● Penamaan nusantara berdasarkan sudut pandang Majapahit itu dimaknai bahwa pada waktu itu belum ada sebutan yang cocok untuk menyebut seluruh kepulauan yang sekarang bernama Indonesia dan juga Malaysia.\n● Nusantara pada waktu itu diartikan pulau-pulau di luar Majapahit (Jawa).\n● Dalam Kitab Negarakertagama karangan Empu Tantular, arti nusantara ialah pulau-pulau di luar Jawa dengan Majapahit sebagai ibu kotanya.",
+        "at": 1767966362869,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa ketentuan Pasal 7A terkait pemberhentian Presiden dan Wakil presiden?",
+        "at": 1768410526020
+      },
+      {
+        "sender": "ai",
+        "text": "Presiden dan/atau Wakil Presiden dapat diberhentikan dalam masa jabatannya oleh Majelis Permusyawaratan Rakyat atas usul Dewan Perwakilan Rakyat, baik apabila terbukti telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela maupun apabila terbukti tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden.",
+        "rawText": "Presiden dan/atau Wakil Presiden dapat diberhentikan dalam masa jabatannya oleh Majelis Permusyawaratan Rakyat atas usul Dewan Perwakilan Rakyat, baik apabila terbukti telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela maupun apabila terbukti tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden.",
+        "at": 1768410526020,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa ketentuan pasal 3 ayat 1 dan 2 terkait MPR?",
+        "at": 1768410958247
+      },
+      {
+        "sender": "ai",
+        "text": "● Pasal 3 ayat 1: Majelis Permusyawaratan Rakyat berwenang mengubah dan menetapkan Undang-Undang Dasar. \n● Pasal 3 ayat 2: Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden.",
+        "rawText": "● Pasal 3 ayat 1: Majelis Permusyawaratan Rakyat berwenang mengubah dan menetapkan Undang-Undang Dasar. \n● Pasal 3 ayat 2: Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden.",
+        "at": 1768410958247,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana hubungan sila Ketuhanan Yang Maha Esa dengan ajaran tauhid, khususnya tauhidus-shifat dan tauhidul-af' al?",
+        "at": 1768411036335
+      },
+      {
+        "sender": "ai",
+        "text": "● Jelaslah bahwa ada hubungan antara sila Ketuhanan Yang Maha Esa dalam Pancasila dengan ajaran tauhid dalam teologi Islam.\n● Jelaslah pula bahwa sila pertama Pancasila yang merupakan prima causa atau sebab pertama itu (meskipun istilah prima causa tidak selalu tepat, sebab Tuhan terus-menerus mengurus makhluknya), sejalan dengan beberapa ajaran tauhid Islam, dalam hal ini ajaran tentang tauhidus-shifat dan tauhidul-af’al, dalam pengertian bahwa Tuhan itu Esa dalam sifat-Nya dan perbuatan-Nya.",
+        "rawText": "● Jelaslah bahwa ada hubungan antara sila Ketuhanan Yang Maha Esa dalam Pancasila dengan ajaran tauhid dalam teologi Islam.\n● Jelaslah pula bahwa sila pertama Pancasila yang merupakan prima causa atau sebab pertama itu (meskipun istilah prima causa tidak selalu tepat, sebab Tuhan terus-menerus mengurus makhluknya), sejalan dengan beberapa ajaran tauhid Islam, dalam hal ini ajaran tentang tauhidus-shifat dan tauhidul-af’al, dalam pengertian bahwa Tuhan itu Esa dalam sifat-Nya dan perbuatan-Nya.",
+        "at": 1768411036335,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa makna prinsip Katuhan Yang Maha Esa yang disepadankan dengan kalimat tertentu?",
+        "at": 1768411074386
+      },
+      {
+        "sender": "ai",
+        "text": "Dalam bahasa formal yang telah disepakati bersama sebagai perjanjian bangsa sama maknanya dengan kalimat “Tiada Tuhan selain Tuhan Yang Maha Esa”.",
+        "rawText": "Dalam bahasa formal yang telah disepakati bersama sebagai perjanjian bangsa sama maknanya dengan kalimat “Tiada Tuhan selain Tuhan Yang Maha Esa”.",
+        "at": 1768411074386,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana sikap Pancasila terhadap agama tertentu dan apa saja 6 agama yang diakui secara resmi?",
+        "at": 1768411119160
+      },
+      {
+        "sender": "ai",
+        "text": "● Dalam bahasa formal yang telah disepakati bersama sebagai perjanjian bangsa sama maknanya dengan kalimat “Tiada Tuhan selain Tuhan Yang Maha Esa”. (Mulyantoro, 2012)\n● Pancasila tidak mengakui satu agama pun sebagai agama yang diistimewakan kedudukannya oleh negara dan dari komitmennya terhadap masyarakat yang plural dan egaliter.\n● Namun, dengan hanya mengakui lima agama (sekarang menjadi 6 agama: Islam, Kristen Katolik, Kristen Protestan, Hindu, Budha dan Konghucu) secara resmi, negara Indonesia membatasi pilihan identitas keagamaan yang bisa dimiliki oleh warga negara.\n● Pandangan yang dominan terhadap Pancasila sebagai dasar negara Indonesia secara jelas menyebutkan tempat bagi orang yang menganut agama tersebut, tetapi tidak bagi mereka yang tidak menganutnya.\n● Pemahaman ini juga memasukkan kalangan sekuler yang menganut agama tersebut, tetapi tidak memasukkan kalangan sekuler yang tidak menganut agama.\n● Seperti yang telah ditelaah Madjid, meskipun Pancasila berfungsi sebagai kerangka yang mengatur masyarakat di tingkat nasional maupun lokal, sebagai individu orang Indonesia bisa dan bahkan didorong untuk memiliki pandangan hidup personal yang berdasarkan agama (An-Na’im, 2007: 439).",
+        "rawText": "● Dalam bahasa formal yang telah disepakati bersama sebagai perjanjian bangsa sama maknanya dengan kalimat “Tiada Tuhan selain Tuhan Yang Maha Esa”. (Mulyantoro, 2012)\n● Pancasila tidak mengakui satu agama pun sebagai agama yang diistimewakan kedudukannya oleh negara dan dari komitmennya terhadap masyarakat yang plural dan egaliter.\n● Namun, dengan hanya mengakui lima agama (sekarang menjadi 6 agama: Islam, Kristen Katolik, Kristen Protestan, Hindu, Budha dan Konghucu) secara resmi, negara Indonesia membatasi pilihan identitas keagamaan yang bisa dimiliki oleh warga negara.\n● Pandangan yang dominan terhadap Pancasila sebagai dasar negara Indonesia secara jelas menyebutkan tempat bagi orang yang menganut agama tersebut, tetapi tidak bagi mereka yang tidak menganutnya.\n● Pemahaman ini juga memasukkan kalangan sekuler yang menganut agama tersebut, tetapi tidak memasukkan kalangan sekuler yang tidak menganut agama.\n● Seperti yang telah ditelaah Madjid, meskipun Pancasila berfungsi sebagai kerangka yang mengatur masyarakat di tingkat nasional maupun lokal, sebagai individu orang Indonesia bisa dan bahkan didorong untuk memiliki pandangan hidup personal yang berdasarkan agama (An-Na’im, 2007: 439).",
+        "at": 1768411119160,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "apa saja 6 agama yang diakui secara resmi?",
+        "at": 1768411287683
+      },
+      {
+        "sender": "ai",
+        "text": "Namun, dengan hanya mengakui lima agama (sekarang menjadi 6 agama: Islam, Kristen Katolik, Kristen Protestan, Hindu, Budha dan Konghucu) secara resmi, negara Indonesia membatasi pilihan identitas keagamaan yang bisa dimiliki oleh warga negara.",
+        "rawText": "Namun, dengan hanya mengakui lima agama (sekarang menjadi 6 agama: Islam, Kristen Katolik, Kristen Protestan, Hindu, Budha dan Konghucu) secara resmi, negara Indonesia membatasi pilihan identitas keagamaan yang bisa dimiliki oleh warga negara.",
+        "at": 1768411287683,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Menurut Eksan, bagaimana Pancasila dan agama dapat berjalan seiring dan saling mendukung?",
+        "at": 1768411329001
+      },
+      {
+        "sender": "ai",
+        "text": "Pancasila dan agama dapat diaplikasikan seiring sejalan dan saling mendukung. Agama dapat mendorong aplikasi atau penerapan nilai-nilai Pancasila, begitu pula Pancasila memberikan ruang gerak yang seluas-luasnya terhadap usaha-usaha peningkatan pemahaman, penghayatan, dan pengamalan agama (Eksan, 2000).",
+        "rawText": "Pancasila dan agama dapat diaplikasikan seiring sejalan dan saling mendukung. Agama dapat mendorong aplikasi atau penerapan nilai-nilai Pancasila, begitu pula Pancasila memberikan ruang gerak yang seluas-luasnya terhadap usaha-usaha peningkatan pemahaman, penghayatan, dan pengamalan agama (Eksan, 2000).",
+        "at": 1768411329001,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan rangkuman tentang hubungan negara dengan agama menurut Kalean!",
+        "at": 1768411366368
+      },
+      {
+        "sender": "ai",
+        "text": "Rangkuman hubungan negara dengan agama (Kaelan, 2012): a. Negara adalah berdasar atas Ketuhanan Yang Maha Esa. b. Bangsa Indonesia adalah sebagai bangsa yang ber-Ketuhanan yang Maha Esa. Konsekuensinya setiap warga memiliki hak asasi untuk memeluk dan menjalankan ibadah sesuai dengan agama masing-masing. c. Tidak ada tempat bagi ateisme *) dan sekularisme **) karena hakikatnya manusia berkedudukan kodrat sebagai makhluk Tuhan. d. Tidak ada tempat bagi pertentangan agama, golongan agama, antar dan inter pemeluk agama serta antar pemeluk agama. e. Tidak ada tempat bagi pemaksaan agama karena ketakwaan itu bukan hasil paksaan bagi siapapun juga. f. Memberikan toleransi terhadap orang lain dalam menjalankan agama dalam negara. g. Segala aspek dalam melaksanakan dan menyelenggarakan negara harus sesuai dengan nilai-nilai Ketuhanan yang Maha Esa terutama norma-norma hukum positif maupun norma moral baik moral agama maupun moral para penyelenggara negara. h. Negara RI pada hakikatnya adalah “…berkat rahmat Allah yang Maha Esa”.",
+        "rawText": "Rangkuman hubungan negara dengan agama (Kaelan, 2012): a. Negara adalah berdasar atas Ketuhanan Yang Maha Esa. b. Bangsa Indonesia adalah sebagai bangsa yang ber-Ketuhanan yang Maha Esa. Konsekuensinya setiap warga memiliki hak asasi untuk memeluk dan menjalankan ibadah sesuai dengan agama masing-masing. c. Tidak ada tempat bagi ateisme *) dan sekularisme **) karena hakikatnya manusia berkedudukan kodrat sebagai makhluk Tuhan. d. Tidak ada tempat bagi pertentangan agama, golongan agama, antar dan inter pemeluk agama serta antar pemeluk agama. e. Tidak ada tempat bagi pemaksaan agama karena ketakwaan itu bukan hasil paksaan bagi siapapun juga. f. Memberikan toleransi terhadap orang lain dalam menjalankan agama dalam negara. g. Segala aspek dalam melaksanakan dan menyelenggarakan negara harus sesuai dengan nilai-nilai Ketuhanan yang Maha Esa terutama norma-norma hukum positif maupun norma moral baik moral agama maupun moral para penyelenggara negara. h. Negara RI pada hakikatnya adalah “…berkat rahmat Allah yang Maha Esa”.",
+        "at": 1768411366368,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa empat fungsi negara dalam teori tujuan negara secara umum?",
+        "at": 1768411388527
+      },
+      {
+        "sender": "ai",
+        "text": "Dalam teori tujuan negara pada umumnya ada empat fungsi negara yangdianut oleh negara-negara di dunia: \n(1) melaksanakan penertiban dan keamanan; \n(2) mengusahakan kesejahteraan dan kemakmuran rakyatnya; \n(3) pertahanan; dan \n(4) menegakkan keadilan.",
+        "rawText": "Dalam teori tujuan negara pada umumnya ada empat fungsi negara yangdianut oleh negara-negara di dunia: \n(1) melaksanakan penertiban dan keamanan; \n(2) mengusahakan kesejahteraan dan kemakmuran rakyatnya; \n(3) pertahanan; dan \n(4) menegakkan keadilan.",
+        "at": 1768411388527,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa tujuan negara RI dalam alinea keempat Pembukaan UUD NRI Tahun 1945?",
+        "at": 1768411413966
+      },
+      {
+        "sender": "ai",
+        "text": "Tujuan negara RI tertulis dalam alinea ke-4 Pembukaan UUD NRI Tahun 1945, yang diuraikan sebagai berikut: 1) Melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia; 2) Memajukan kesejahteraan umum; 3) Mencerdaskan kehidupan bangsa; dan 4) Ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.",
+        "rawText": "Tujuan negara RI tertulis dalam alinea ke-4 Pembukaan UUD NRI Tahun 1945, yang diuraikan sebagai berikut: 1) Melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia; 2) Memajukan kesejahteraan umum; 3) Mencerdaskan kehidupan bangsa; dan 4) Ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial.",
+        "at": 1768411413966,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Menurut UUD NRI Tahun 1945 Pasal 24, apa pengertian kekuasaan kehakiman dan siapa pelaksananya?",
+        "at": 1768411429136
+      },
+      {
+        "sender": "ai",
+        "text": "1. Kekuasaan kehakiman merupakan kekuasaan yang merdeka untuk menyelenggarakan peradilan guna menegakkan hukum dan keadilan.\n2. Kekuasaan kehakiman menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 merupakan kekuasaan yang merdeka yang dilakukan oleh Mahkamah Agung dan badan peradilan yang berada di bawahnya dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi.",
+        "rawText": "1. Kekuasaan kehakiman merupakan kekuasaan yang merdeka untuk menyelenggarakan peradilan guna menegakkan hukum dan keadilan.\n2. Kekuasaan kehakiman menurut Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 merupakan kekuasaan yang merdeka yang dilakukan oleh Mahkamah Agung dan badan peradilan yang berada di bawahnya dalam lingkungan peradilan umum, lingkungan peradilan agama, lingkungan peradilan militer, lingkungan peradilan tata usaha negara, dan oleh sebuah Mahkamah Konstitusi.",
+        "at": 1768411429136,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa saja yang diatur dalam lembaga tinggi peradilan yang diatur dalam UUD NRI Tahun 1945 dan apa saja perannya secara ringkas?",
+        "at": 1768411516332
+      },
+      {
+        "sender": "ai",
+        "text": "Lembaga tinggi peradilan yang diatur dalam UUD NRI Tahun 1945 ialah \n1)Mahkamah Agung (MA), \n2)Komisi Yudisial (KY) yang menyangkut pejabat pengadilan, dan \n3)Mahkamah Konstitusi (MK) yang mengurusi sengketa terkait konstitusi dan politik.",
+        "rawText": "Lembaga tinggi peradilan yang diatur dalam UUD NRI Tahun 1945 ialah \n1)Mahkamah Agung (MA), \n2)Komisi Yudisial (KY) yang menyangkut pejabat pengadilan, dan \n3)Mahkamah Konstitusi (MK) yang mengurusi sengketa terkait konstitusi dan politik.",
+        "at": 1768411516332,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Sebutkan pemisahan bidang peradilan!",
+        "at": 1768411531670
+      },
+      {
+        "sender": "ai",
+        "text": "Pemisahan bidang peradilan: Peradilan Umum, Peradilan Agama, Peradilan Militer, dan Peradilan Tata Usaha Negara (PTUN).",
+        "rawText": "Pemisahan bidang peradilan: Peradilan Umum, Peradilan Agama, Peradilan Militer, dan Peradilan Tata Usaha Negara (PTUN).",
+        "at": 1768411531670,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa saja  empat tahapan Pelaksanaan Demokrasi?",
+        "at": 1768411547795
+      },
+      {
+        "sender": "ai",
+        "text": "Empat Tahapan Pelaksanaan Demokrasi: \n● Tahapan pertama adalah pergantian dari penguasa non demokratis ke penguasa yang demokratis. \n● Tahapan kedua adalah pembentukan lembaga-lembaga dan tertib politik demokrasi. \n● Tahapan ketiga adalah konsolidasi demokrasi. \n● Tahapan keempat adalah praktik demokrasi sebagai budaya politik bernegara.",
+        "rawText": "Empat Tahapan Pelaksanaan Demokrasi: \n● Tahapan pertama adalah pergantian dari penguasa non demokratis ke penguasa yang demokratis. \n● Tahapan kedua adalah pembentukan lembaga-lembaga dan tertib politik demokrasi. \n● Tahapan ketiga adalah konsolidasi demokrasi. \n● Tahapan keempat adalah praktik demokrasi sebagai budaya politik bernegara.",
+        "at": 1768411547795,
+        "usedLLM": true
+      }
+    ]
+  },
+  {
+    "id": "sess_1768408827904",
+    "title": "Apa ketentuan Pasal 7A terkait pemberhen...",
+    "createdAt": 1768408827904,
+    "updatedAt": 1768411028757,
+    "messages": [
+      {
+        "sender": "ai",
+        "text": "Halo 👋\n\nAku adalah **PancaAI**, asisten AI untuk mata kuliah **PPKN**. Silakan ajukan pertanyaan pertamamu 😊",
+        "at": 1768408827904
+      },
+      {
+        "sender": "user",
+        "text": "Apa ketentuan Pasal 7A terkait pemberhentian Presiden dan Wakil presiden?",
+        "at": 1768410519894
+      },
+      {
+        "sender": "ai",
+        "text": "Presiden dan/atau Wakil Presiden dapat diberhentikan dalam masa jabatannya oleh Majelis Permusyawaratan Rakyat atas usul Dewan Perwakilan Rakyat, baik apabila terbukti telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela maupun apabila terbukti tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden.",
+        "rawText": "Presiden dan/atau Wakil Presiden dapat diberhentikan dalam masa jabatannya oleh Majelis Permusyawaratan Rakyat atas usul Dewan Perwakilan Rakyat, baik apabila terbukti telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela maupun apabila terbukti tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden.",
+        "at": 1768410519894,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana materi membagi bentuk identitas nasional Indonesia, dan bagaimana contoh Pancasila sebagai identitas fisik dan perilaku?",
+        "at": 1768410612568
+      },
+      {
+        "sender": "ai",
+        "text": "● Pancasila sebagai identitas berbentuk perilaku yaitu kehidupan bangsa Indonesia sehari-hari berperilaku sesuai dengan sila-sila dalam Pancasila.\nKBBI: sila artinya aturan yang melatarbelakangi perilaku seseorang atau bangsa; kelakuan; sopan santun; dasar; adab; akhlak; moral.\nRangkuman bentuk fisik identitas nasional Indonesia: ● Dasar Negara: Pancasila ● Lambang Negara: Garuda Pancasila ● Bahasa Nasional: Bahasa Indonesia ● Bendera Negara: Sang Merah Putih ● Semboyan: Bhinneka Tunggal Ika ● Lagu Kebangsaan: Indonesia Raya ● Bentuk Negara: Kesatuan RI ● Konsitusi: UUD NRI 1945 ● Wawasan Nusantara ● Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional\nPengertian Bangsa & Kebangsaan (Nasionalisme)\nBeberapa pendapat ahli dalam buku ajar PPKn (Putra & Wajdi, 2021):\n● Bangsa merupakan kumpulan orang-orang yang memiliki kesamaan asal keturuan, adat, bahasa, dan sejarah, serta berpemerintahan sendiri.",
+        "rawText": "● Pancasila sebagai identitas berbentuk perilaku yaitu kehidupan bangsa Indonesia sehari-hari berperilaku sesuai dengan sila-sila dalam Pancasila.\nKBBI: sila artinya aturan yang melatarbelakangi perilaku seseorang atau bangsa; kelakuan; sopan santun; dasar; adab; akhlak; moral.\nRangkuman bentuk fisik identitas nasional Indonesia: ● Dasar Negara: Pancasila ● Lambang Negara: Garuda Pancasila ● Bahasa Nasional: Bahasa Indonesia ● Bendera Negara: Sang Merah Putih ● Semboyan: Bhinneka Tunggal Ika ● Lagu Kebangsaan: Indonesia Raya ● Bentuk Negara: Kesatuan RI ● Konsitusi: UUD NRI 1945 ● Wawasan Nusantara ● Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional\nPengertian Bangsa & Kebangsaan (Nasionalisme)\nBeberapa pendapat ahli dalam buku ajar PPKn (Putra & Wajdi, 2021):\n● Bangsa merupakan kumpulan orang-orang yang memiliki kesamaan asal keturuan, adat, bahasa, dan sejarah, serta berpemerintahan sendiri.",
+        "at": 1768410612568,
+        "usedLLM": false
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana bentuk identitas nasional Indonesia, dan bagaimana contoh Pancasila sebagai identitas fisik dan perilaku?",
+        "at": 1768410693423
+      },
+      {
+        "sender": "ai",
+        "text": "● Pancasila sebagai identitas berbentuk perilaku yaitu kehidupan bangsa Indonesia sehari-hari berperilaku sesuai dengan sila-sila dalam Pancasila.\nKBBI: sila artinya aturan yang melatarbelakangi perilaku seseorang atau bangsa; kelakuan; sopan santun; dasar; adab; akhlak; moral.\nRangkuman bentuk fisik identitas nasional Indonesia: ● Dasar Negara: Pancasila ● Lambang Negara: Garuda Pancasila ● Bahasa Nasional: Bahasa Indonesia ● Bendera Negara: Sang Merah Putih ● Semboyan: Bhinneka Tunggal Ika ● Lagu Kebangsaan: Indonesia Raya ● Bentuk Negara: Kesatuan RI ● Konsitusi: UUD NRI 1945 ● Wawasan Nusantara ● Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional",
+        "rawText": "● Pancasila sebagai identitas berbentuk perilaku yaitu kehidupan bangsa Indonesia sehari-hari berperilaku sesuai dengan sila-sila dalam Pancasila.\nKBBI: sila artinya aturan yang melatarbelakangi perilaku seseorang atau bangsa; kelakuan; sopan santun; dasar; adab; akhlak; moral.\nRangkuman bentuk fisik identitas nasional Indonesia: ● Dasar Negara: Pancasila ● Lambang Negara: Garuda Pancasila ● Bahasa Nasional: Bahasa Indonesia ● Bendera Negara: Sang Merah Putih ● Semboyan: Bhinneka Tunggal Ika ● Lagu Kebangsaan: Indonesia Raya ● Bentuk Negara: Kesatuan RI ● Konsitusi: UUD NRI 1945 ● Wawasan Nusantara ● Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional",
+        "at": 1768410693423,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana bentuk identitas nasional Indonesia?",
+        "at": 1768410757427
+      },
+      {
+        "sender": "ai",
+        "text": "● Pancasila sebagai identitas berbentuk perilaku yaitu kehidupan bangsa Indonesia sehari-hari berperilaku sesuai dengan sila-sila dalam Pancasila.\nKBBI: sila artinya aturan yang melatarbelakangi perilaku seseorang atau bangsa; kelakuan; sopan santun; dasar; adab; akhlak; moral.\nRangkuman bentuk fisik identitas nasional Indonesia: ● Dasar Negara: Pancasila ● Lambang Negara: Garuda Pancasila ● Bahasa Nasional: Bahasa Indonesia ● Bendera Negara: Sang Merah Putih ● Semboyan: Bhinneka Tunggal Ika ● Lagu Kebangsaan: Indonesia Raya ● Bentuk Negara: Kesatuan RI ● Konsitusi: UUD NRI 1945 ● Wawasan Nusantara ● Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional",
+        "rawText": "● Pancasila sebagai identitas berbentuk perilaku yaitu kehidupan bangsa Indonesia sehari-hari berperilaku sesuai dengan sila-sila dalam Pancasila.\nKBBI: sila artinya aturan yang melatarbelakangi perilaku seseorang atau bangsa; kelakuan; sopan santun; dasar; adab; akhlak; moral.\nRangkuman bentuk fisik identitas nasional Indonesia: ● Dasar Negara: Pancasila ● Lambang Negara: Garuda Pancasila ● Bahasa Nasional: Bahasa Indonesia ● Bendera Negara: Sang Merah Putih ● Semboyan: Bhinneka Tunggal Ika ● Lagu Kebangsaan: Indonesia Raya ● Bentuk Negara: Kesatuan RI ● Konsitusi: UUD NRI 1945 ● Wawasan Nusantara ● Kebudayaan daerah yang telah diterima sebagai kebudayaan nasional",
+        "at": 1768410757427,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Apa ketentuan pasal 3 ayat 1 dan 2 terkait MPR?",
+        "at": 1768410950377
+      },
+      {
+        "sender": "ai",
+        "text": "● Pasal 3 ayat 1: Majelis Permusyawaratan Rakyat berwenang mengubah dan menetapkan Undang-Undang Dasar. \n● Pasal 3 ayat 2: Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden.",
+        "rawText": "● Pasal 3 ayat 1: Majelis Permusyawaratan Rakyat berwenang mengubah dan menetapkan Undang-Undang Dasar. \n● Pasal 3 ayat 2: Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden.",
+        "at": 1768410950377,
+        "usedLLM": true
+      },
+      {
+        "sender": "user",
+        "text": "Bagaimana hubungan sila Ketuhanan Yang Maha Esa dengan ajaran tauhid, khususnya tauhidus-shifat dan tauhidul-af' al?",
+        "at": 1768411028757
+      },
+      {
+        "sender": "ai",
+        "text": "● Jelaslah bahwa ada hubungan antara sila Ketuhanan Yang Maha Esa dalam Pancasila dengan ajaran tauhid dalam teologi Islam.\n● Jelaslah pula bahwa sila pertama Pancasila yang merupakan prima causa atau sebab pertama itu (meskipun istilah prima causa tidak selalu tepat, sebab Tuhan terus-menerus mengurus makhluknya), sejalan dengan beberapa ajaran tauhid Islam, dalam hal ini ajaran tentang tauhidus-shifat dan tauhidul-af’al, dalam pengertian bahwa Tuhan itu Esa dalam sifat-Nya dan perbuatan-Nya.",
+        "rawText": "● Jelaslah bahwa ada hubungan antara sila Ketuhanan Yang Maha Esa dalam Pancasila dengan ajaran tauhid dalam teologi Islam.\n● Jelaslah pula bahwa sila pertama Pancasila yang merupakan prima causa atau sebab pertama itu (meskipun istilah prima causa tidak selalu tepat, sebab Tuhan terus-menerus mengurus makhluknya), sejalan dengan beberapa ajaran tauhid Islam, dalam hal ini ajaran tentang tauhidus-shifat dan tauhidul-af’al, dalam pengertian bahwa Tuhan itu Esa dalam sifat-Nya dan perbuatan-Nya.",
+        "at": 1768411028757,
+        "usedLLM": true
+      }
+    ]
+  }
+]
